@@ -1,0 +1,14 @@
+html{	background-color: #EEE9E8;}
+nav{	font-weight: bold;	color:gray;}
+.iconLogo{	height: 50px;}
+.iconCar{	width: 30px;	height: 30px;}
+.menu1, .menu3{	width: 35%;}
+.menu1, .menu2{	float: left;}
+.menu2{	text-align: center;	width: 20%;}
+nav ul li{	float: left;	margin-left: 20px;}
+ul li{	text-decoration: none;    list-style-type: none;}
+.menu3{	float: right;}
+.clear{	clear: both;}
+.menuOculto{	display: none;}
+.verMas{	cursor: pointer;	font-size: 20px;}
+.verMas:hover{	color:red;}
